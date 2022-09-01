@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "ES6", // 打包编译完后的js版本
+    "module": "ES6",// 引入模块时，也按照es6的规则引入 
+  }
+}
